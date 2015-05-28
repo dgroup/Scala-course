@@ -1,0 +1,16 @@
+subprojects {
+    apply plugin: 'scala'
+
+    repositories {
+        mavenCentral()
+    }
+
+
+    dependencies {
+        compile "org.scala-lang:scala-library:2.11.6"
+        compile "org.scala-lang:scala-compiler:2.11.6"
+        compile 'junit:junit:4.+'
+        testCompile 'org.scalatest:scalatest_2.11:2.2.4'
+    }
+
+}
