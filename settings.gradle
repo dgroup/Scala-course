@@ -1,1 +1,1 @@
-include ":intro"
+include ":intro", ":week 1 - Functions & Evaluations", ":week 2 - Higher Order Functions", ":week 3 - Data and Abstraction", ":week 4 - Types and Pattern Matching", ":week 5 - Lists", ":week 6 - Collections", ":week 7 - Lazy Evaluation"
