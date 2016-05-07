@@ -1,1 +1,1 @@
-# Scala-course ![Travis CI status](https://api.travis-ci.org/dgroup/Scala-course.svg?branch=master "Last build on Travis CI ")
+# Scala-course [![Build Status](https://semaphoreci.com/api/v1/dgroup/scala-course/branches/master/shields_badge.svg)](https://semaphoreci.com/dgroup/scala-course)
