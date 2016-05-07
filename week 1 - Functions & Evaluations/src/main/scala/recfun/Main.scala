@@ -38,7 +38,7 @@ object Main {
     * Exercise 3
     */
     def countChange(money: Int, coins: List[Int]): Int = {
-      if (money <= 0 || coins == null || coins.isEmpty) return 0
+      if (money <= 0 || coins.isEmpty) return 0
 
       val coinsType = coins.sorted.distinct
 
